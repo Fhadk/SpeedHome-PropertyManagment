@@ -37,11 +37,11 @@ update property /updateProperty/type<String>/address<String>
 
 Create three test cases:
 
-1- getActiveUser 	// returns all the active users who are currently using that API
-2- ApproveProperty 	// returns flag = "Approved !!" else failure 
+- getActiveUser 	// returns all the active users who are currently using that API
+- ApproveProperty 	// returns flag = "Approved !!" else failure 
 	Assumption: If address contains USA than it will be approved else ignored.
 	
-3- createProperty  	// returns HashMap in case of success
+- createProperty  	// returns HashMap in case of success
 
 
 
